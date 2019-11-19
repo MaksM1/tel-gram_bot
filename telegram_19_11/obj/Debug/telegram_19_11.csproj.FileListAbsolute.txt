@@ -1,0 +1,11 @@
+H:\telegram_19_11\telegram_19_11\bin\Debug\telegram_19_11.exe.config
+H:\telegram_19_11\telegram_19_11\bin\Debug\telegram_19_11.exe
+H:\telegram_19_11\telegram_19_11\bin\Debug\telegram_19_11.pdb
+H:\telegram_19_11\telegram_19_11\bin\Debug\Newtonsoft.Json.dll
+H:\telegram_19_11\telegram_19_11\bin\Debug\Telegram.Bot.dll
+H:\telegram_19_11\telegram_19_11\bin\Debug\Newtonsoft.Json.xml
+H:\telegram_19_11\telegram_19_11\bin\Debug\Telegram.Bot.xml
+H:\telegram_19_11\telegram_19_11\obj\Debug\telegram_19_11.csprojAssemblyReference.cache
+H:\telegram_19_11\telegram_19_11\obj\Debug\telegram_19_11.csproj.CopyComplete
+H:\telegram_19_11\telegram_19_11\obj\Debug\telegram_19_11.exe
+H:\telegram_19_11\telegram_19_11\obj\Debug\telegram_19_11.pdb
