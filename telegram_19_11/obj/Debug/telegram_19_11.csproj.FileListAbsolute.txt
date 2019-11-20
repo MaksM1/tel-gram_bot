@@ -9,3 +9,4 @@ H:\telegram_19_11\telegram_19_11\obj\Debug\telegram_19_11.csprojAssemblyReferenc
 H:\telegram_19_11\telegram_19_11\obj\Debug\telegram_19_11.csproj.CopyComplete
 H:\telegram_19_11\telegram_19_11\obj\Debug\telegram_19_11.exe
 H:\telegram_19_11\telegram_19_11\obj\Debug\telegram_19_11.pdb
+H:\telegram_19_11\telegram_19_11\bin\Debug\ApiAiSDK.dll
